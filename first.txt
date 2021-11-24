@@ -1,2 +1,4 @@
 はじめてのgit
 基礎からはじめる！
+git add
+git commit
